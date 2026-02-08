@@ -1,6 +1,6 @@
 # Skill Security Audit
 
-Audit Codex skills for risky behavior before installing or publishing. This repository provides a lightweight static scanner plus review guidance to help detect:
+Audit ai skills for risky behavior before installing or publishing. This repository provides a lightweight static scanner plus review guidance to help detect:
 
 - Hidden content in Markdown (HTML comments)
 - Network calls and data exfiltration

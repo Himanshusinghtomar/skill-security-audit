@@ -1,0 +1,4 @@
+interface:
+  display_name: "Skill Security Audit"
+  short_description: "Audit skills for risky behavior"
+  default_prompt: "Use $skill-security-audit to scan a skill folder for suspicious behavior."

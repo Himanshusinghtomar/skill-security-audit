@@ -105,4 +105,4 @@ Automated results are a starting point. Use the manual checklist:
 
 ## License
 
-Add your license here.
+mit license
